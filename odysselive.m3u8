@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,BT Sport 1 HD
+#EXTVLCOPT:http-referrer=https://odysee.com/
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76
+https://cloud.odysee.live/content/bd4191ad0e26f1bdfd993236846a0de79cbdf8e7/master.m3u8
