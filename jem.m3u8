@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,Test
+#EXTVLCOPT:http-referrer=http://foofootv.com/w/?id=jeem
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76
+http://foofootv.com/live/foo/foo93/jeem.m3u8
