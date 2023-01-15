@@ -11,9 +11,13 @@ What sets Ureplay TV apart is our exclusive North Africa content, including Arab
 Introducing Ureplay TV, a comprehensive platform that brings together all the free Arabic video content available on the internet, including channels specifically designed for children. With a user-friendly interface, Ureplay TV offers a variety of channels catering to different age groups, providing entertainment and education in Arabic, English, and French with high-quality programming.
 
 Some of the popular channels available on Ureplay TV include:
+
 MBC 3, a Saudi Arabian channel that caters to young people with a variety of programs.
+
 Rotana Kids, a public channel that specializes in showing a diverse selection of cartoons and children's programs.
+
 Majid Majid Children's Channel, an Arab-Emirati television channel that focuses on children's programming.
+
 Baraem, a channel that accompanies pre-school children with meaningful educational content that helps to strengthen their perceptions.
 
 Spacetoon, the Future Youth Channel, offers the best cartoon series and is the coolest place for children's entertainment.
