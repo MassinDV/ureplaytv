@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-0",NAME="en (Main)",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="en",URI="https://raw.githubusercontent.com/MassinDV/ureplaytv/main/mp3.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=599500,CODECS="mp4a.40.2,avc1.420015",RESOLUTION=480x270,AUDIO="audio-0",CLOSED-CAPTIONS=NONE
+https://raw.githubusercontent.com/MassinDV/AljazeeraDocu/main/باي-الشعب-2-ربيع-الثورة/video/rendition.m3u8
