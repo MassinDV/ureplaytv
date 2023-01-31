@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-TARGETDURATION:5
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-GAP
+#EXTINF:4.053,
+https://mediacenter.medi1.com/medi1-static/671884b2-1ec8-4b1c-b94a-1cfc2411a37e.mp3
