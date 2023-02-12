@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tv source-data-url="https://tvprofil.net/api/xmltv/" source-info-name="TvProfil API v2.0 - XMLTV" source-info-url="https://tvprofil.com">
+<channel id="alrahma">
+<display-name>Al Rahma</display-name>
+<url>http://www.alrahma.com</url>
+<icon src="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/htv1-logo.png" />
+</channel>
+<programme channel="alrahma" start="20230213013700 +0100" stop="20230216022900 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط،.</desc>
+<previously-shown />
+</programme>
+<programme channel="alrahma" start="20230216022900 +0100" stop="20230217031900 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
+</programme>
+ </desc>
+</programme>
+</tv>
