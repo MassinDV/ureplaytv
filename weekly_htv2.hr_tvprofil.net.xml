@@ -1,382 +1,369 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <tv source-data-url="https://tvprofil.net/api/xmltv/" source-info-name="TvProfil API v2.0 - XMLTV" source-info-url="https://tvprofil.com">
-<channel id="htv1.hr">
-<display-name>HTV1</display-name>
-<url>http://www.hrt.hr</url>
-<icon src="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/htv1-logo.png" />
+<channel id="alrahma.tv">
+<display-name>Al Rahma</display-name>
+<url>http://www.alrahma.tv.tv</url>
+<icon src="https://alrahma.tv/images/logo@2x.png" />
 </channel>
-<programme channel="htv1.hr" start="20230213013700 +0100" stop="20230213022900 +0100">
-<title lang="hr">Apokalipsa dinosaura, Novi dokazi 1, ep. 1. ®</title>
-<desc lang="hr">Ovaj dokumentarni film u dosad neviđenim detaljima oživljava nestali svijet iz vremena posljednjih dana postojanja dinosaura. Obavljajući istraživanja u brdima Sjeverne Dakote, paleontolog Robert DePalma došao je do nevjerojatnog otkrića: pronašao je prapovijesno groblje koje je nazvao Tanis, s fosiliziranim stvorenjima zakopanima u tajanstvenom rahlome sloju stijena, jednako dobro očuvanima kao i tijela pronađena u Pompejima. Dok DePalma traži dokaze koji bi rasvijetlili zadnje dane dinosaura, najsuvremenije tehnike VFX produkcije vraćaju nas kroz vrijeme u doba potkraj krede kako bismo se osvjedočili o tome koja su stvorenja tog kobnoga dana živjela u Tanisu. Dok se ekipa za iskapanje služi vrhunskom tehnikom pretraživanja kako bi otkrila fosilizirane tajne, Robert DePalma i profesor Phil Manning proučavaju pronalaske koji bi jednom zauvijek mogli promijeniti naše spoznaje o nestanku dinosaura.</desc>
+<programme channel="alrahma.tv" start="20230213013700 +0100" stop="20230213022900 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط،.</desc>
 <previously-shown />
 </programme>
-<programme channel="htv1.hr" start="20230213022900 +0100" stop="20230213031900 +0100">
-<title lang="hr">Plodovi zemlje</title>
-<desc lang="hr">Nedjeljna emisija o poljoprivredi i ribarstvu bavi se aktualnim temama, kritički progovara o agrarnoj politici, savjetuje i poučava gledatelje te donosi agroprognozu. Najstarija specijalizirana emisija Hrvatske televizije, emitira se od 1958. godine.</desc>
+<programme channel="alrahma.tv" start="20230213022900 +0100" stop="20230213031900 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213031900 +0100" stop="20230213041400 +0100">
-<title lang="hr">Nedjeljom u 2</title>
-<desc lang="hr">Gost emisije Nedjeljom u 2 je predsjednik Hrvatskih suverenista Marijan Pavliček. Zašto ga ne puste u Srbiju? Može li hrvatska desnica zajednički artikulirati stajališta u Saboru te u čemu je razlika između Domovinskog pokreta i Suverenista, neka su od pitanja emisije.</desc>
+<programme channel="alrahma.tv" start="20230213031900 +0100" stop="20230213041400 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213041400 +0100" stop="20230213044400 +0100">
-<title lang="hr">Maškare u Končanici (12)</title>
-<desc lang="hr">Nekad na pokladni utorak, a od 1980-ih u nedjelju prije utorka, u Končanici - većinski češkoj općini u okolici Daruvara - od ranog jutra, pa do večeri održava se pokladna povorka, koja mora proći kroz čitavo mjesto, tj. obići kuće čiji domaćini to žele. Povorka ima tradicijom zadanih13 likova i prateću limenu glazbu. Sve uloge, pa i ženske, igraju neoženjeni momci. Tradicija je, naravno, promjenjiva i prilagodljiva - neki su likovi doneseni iz Češke, a neki preuzeti ovdje.
-Međutim, iako je sve to, naoko, samo šala i zabava, istodobno i nije, jer je riječ o nečem što se mora obaviti, što se tradicijski smatra obvezom, a istodobno je i golem i naporan posao, i organizatorima, i izvođačima - tako da, zapravo, svi to u Končanici doživljavaju vrlo ozbiljno...</desc>
+<programme channel="alrahma.tv" start="20230213041400 +0100" stop="20230213044400 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213044400 +0100" stop="20230213045200 +0100">
-<title lang="hr">Vijesti iz kulture</title>
-<desc lang="hr">Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.</desc>
+<programme channel="alrahma.tv" start="20230213044400 +0100" stop="20230213045200 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213045200 +0100" stop="20230213052200 +0100">
-<title lang="hr">Pozitivno, ep. 383.</title>
-<desc lang="hr">Gošća nam je tajnica koordinacije štovatelja Božje milosrđa Jelena Vuković.
-Predstavljamo kako izgleda svetomarska čipka.
-Doznajte zašto hrvatski branitelj izrađuje kućice za ptice.
-Organizator produkcije: Zdravko Sandrin</desc>
+<programme channel="alrahma.tv" start="20230213045200 +0100" stop="20230213052200 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213052200 +0100" stop="20230213052400 +0100">
-<title lang="hr">Skica za portret</title>
-<desc lang="hr">U formi kratkog dokumentarnog filma emisija predstavlja autore važne za hrvatsku povijest i kulturu.</desc>
+<programme channel="alrahma.tv" start="20230213052200 +0100" stop="20230213052400 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213052400 +0100" stop="20230213055400 +0100">
-<title lang="hr">Split: More</title>
-<desc lang="hr">Mozaična informativna emisija posvećena bogatstvu našeg Jadranskog mora, obale i priobalja. Donosi zanimljive reportaže o temama vezanim za život na moru i uz njega. Emitira se iz HRT-ovih studija Split, Rijeka, Zadar i Pula.</desc>
+<programme channel="alrahma.tv" start="20230213052400 +0100" stop="20230213055400 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213055400 +0100" stop="20230213062400 +0100">
-<title lang="hr">Mir i dobro</title>
-<desc lang="hr">Nedjeljni informativni magazin prati tjedne događaje vezane uz djelovanje i život Katoličke Crkve u domovini i inozemstvu.</desc>
+<programme channel="alrahma.tv" start="20230213055400 +0100" stop="20230213062400 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213062400 +0100" stop="20230213064500 +0100">
-<title lang="hr">TV kalendar</title>
-<desc lang="hr">Dokumentarno-povijesna emisija, emitira se svakodnevno od 1976. Prikazuje važne događaje i obljetnice iz hrvatske i svjetske povijesti</desc>
+<programme channel="alrahma.tv" start="20230213062400 +0100" stop="20230213064500 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213064500 +0100" stop="20230213070000 +0100">
-<title lang="hr">Dobro jutro, Hrvatska</title>
-<desc lang="hr">Mozaična emisija koja od ponedjeljka do subote donosi aktualne informativne i zabavne sadržaje, s voditeljskim parom u studiju i gostima te uz reportaže i javljanja uživo iz cijele Hrvatske i redovite rubrike sa savjetima iz svih područja života.</desc>
+<programme channel="alrahma.tv" start="20230213064500 +0100" stop="20230213070000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213070000 +0100" stop="20230213071300 +0100">
-<title lang="hr">Vijesti</title>
-<desc lang="hr">Kratki pregled vijesti iz Hrvatske i svijeta.</desc>
+<programme channel="alrahma.tv" start="20230213070000 +0100" stop="20230213071300 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213071300 +0100" stop="20230213080000 +0100">
-<title lang="hr">Dobro jutro, Hrvatska</title>
-<desc lang="hr">Mozaična emisija koja od ponedjeljka do subote donosi aktualne informativne i zabavne sadržaje, s voditeljskim parom u studiju i gostima te uz reportaže i javljanja uživo iz cijele Hrvatske i redovite rubrike sa savjetima iz svih područja života.</desc>
+<programme channel="alrahma.tv" start="20230213071300 +0100" stop="20230213080000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213080000 +0100" stop="20230213081300 +0100">
-<title lang="hr">Vijesti</title>
-<desc lang="hr">Kratki pregled vijesti iz Hrvatske i svijeta.</desc>
+<programme channel="alrahma.tv" start="20230213080000 +0100" stop="20230213081300 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213081300 +0100" stop="20230213090000 +0100">
-<title lang="hr">Dobro jutro, Hrvatska</title>
-<desc lang="hr">Mozaična emisija koja od ponedjeljka do subote donosi aktualne informativne i zabavne sadržaje, s voditeljskim parom u studiju i gostima te uz reportaže i javljanja uživo iz cijele Hrvatske i redovite rubrike sa savjetima iz svih područja života.</desc>
+<programme channel="alrahma.tv" start="20230213081300 +0100" stop="20230213090000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213090000 +0100" stop="20230213091300 +0100">
-<title lang="hr">Vijesti</title>
-<desc lang="hr">Kratki pregled vijesti iz Hrvatske i svijeta.</desc>
+<programme channel="alrahma.tv" start="20230213090000 +0100" stop="20230213091300 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213091300 +0100" stop="20230213100900 +0100">
-<title lang="hr">Dobro jutro, Hrvatska</title>
-<desc lang="hr">Mozaična emisija koja od ponedjeljka do subote donosi aktualne informativne i zabavne sadržaje, s voditeljskim parom u studiju i gostima te uz reportaže i javljanja uživo iz cijele Hrvatske i redovite rubrike sa savjetima iz svih područja života.</desc>
+<programme channel="alrahma.tv" start="20230213091300 +0100" stop="20230213100900 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213100900 +0100" stop="20230213104000 +0100">
-<title lang="hr">Treća dob</title>
-<desc lang="hr">Gotovo 500.000 umirovljenika ovaj mjesec dobilo je uvećani iznos mirovine - i to: tri posto minimalne i 10 posto obiteljske. Umirovljenici će uskoro moći primati i dio obiteljske mirovine preminulog bračnog druga. Koliko zahtjeva je do sada zaprimljeno u Hrvatski zavod za mirovinsko osiguranje, do kada se zahtjevi mogu predati i kada umirovljenici mogu očekivati prve isplate mirovine preminulog partnera?</desc>
+<programme channel="alrahma.tv" start="20230213100900 +0100" stop="20230213104000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213104000 +0100" stop="20230213111000 +0100">
-<title lang="hr">Brza jela Mary Berry, Zračna Luka 1, ep. 6.</title>
-<desc lang="hr">Mary dobiva propusnicu za pristup svim dijelovima londonske zračne luke Heathrow. Želi vidjeti što je sve potrebno da se nahrane ljudi u jednoj od najprometnijih zračnih luka na svijetu, a da pritom sve teče glatko i bez zastoja.</desc>
+<programme channel="alrahma.tv" start="20230213104000 +0100" stop="20230213111000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213111000 +0100" stop="20230213114000 +0100">
-<title lang="hr">Vrtlarica: Put sjemena</title>
-<desc lang="hr">U ovoj Vrtlarici doznajte zašto je važno čuvati sjeme autohtonih sorti povrća i cvijeća te upoznajte ljude koji se brinu da što više vrijednog sjemena sačuvamo za budućnost.
-Montaža: Nino Šoštarić</desc>
+<programme channel="alrahma.tv" start="20230213111000 +0100" stop="20230213114000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213114000 +0100" stop="20230213120000 +0100">
-<title lang="hr">TV kalendar</title>
-<desc lang="hr">Dokumentarno-povijesna emisija, emitira se svakodnevno od 1976. Prikazuje važne događaje i obljetnice iz hrvatske i svjetske povijesti</desc>
+<programme channel="alrahma.tv" start="20230213114000 +0100" stop="20230213120000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213120000 +0100" stop="20230213121500 +0100">
-<title lang="hr">Dnevnik 1</title>
-<desc lang="hr">Aktualne informacije i najnovije vijesti iz zemlje i svijeta u podnevnom Dnevniku.</desc>
+<programme channel="alrahma.tv" start="20230213120000 +0100" stop="20230213121500 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213121500 +0100" stop="20230213121800 +0100">
-<title lang="hr">Sport</title>
-<desc lang="hr">Dnevni sportski izvještaji i reportaže.</desc>
+<programme channel="alrahma.tv" start="20230213121500 +0100" stop="20230213121800 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213121800 +0100" stop="20230213123000 +0100">
-<title lang="hr">Vrijeme</title>
-<desc lang="hr">Nakon Dnevnika 1 i 3 slijedi vremenska prognoza, uz meteozanimljivosti i upozorenja na opasne vremenske pojave, uoči Dnevnika 2 kratka tjedna prognoza.</desc>
+<programme channel="alrahma.tv" start="20230213121800 +0100" stop="20230213123000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213123000 +0100" stop="20230213132500 +0100">
-<title lang="hr">Srca divljega Pantanala, ep. 26. (12)</title>
-<desc lang="hr">Joventino uči Jumu čitati. Gustavo razgovara s Nayarom o Madeleine i o tome kako neprestano gledaju u mobitelski zaslon i žive paralelnu stvarnost. Juma izjavi ljubav Joveu. José Leôncio se sukobi sa Joveom. Juma ga brani. Zé Leôncio joj prijeti oduzimanjem stoke koju je svojedobno dao njezinim roditeljima ako se Jove ne vrati u Rio de Janeiro. Guta kritizira Joséa Leôncija. Filó osjeća nelagodu. Tibério nagovori Jovea da se vrati na očevo imanje. Tenório se prepire s Gutom. Jove se svađa s ocem i odbija njegovu financijsku pomoć. Nijema želi odraditi svoju osvetu. Jove odvede Jumu sa sobom u Rio de Janeiro, a u tome mu pomognu Tadeu i Ari. José Leôncio se uznemiri kad čuje da je Juma otišla sa Joveom. Ari govori Joséu Leônciju da je Tadeu odveo par u Rio de Janeiro. Juma se uplaši velegrada i njegovih visokih nebodera.</desc>
+<programme channel="alrahma.tv" start="20230213123000 +0100" stop="20230213132500 +0100">
+<title lang="hr">قناة الرحمة الفضائية)</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213132500 +0100" stop="20230213141200 +0100">
-<title lang="hr">Dr. Beck</title>
-<desc lang="hr">Zamislite da bolujete od rijetke bolesti od koje boluje tek nekoliko desetaka ljudi u Hrvatskoj. Doći do dijagnoze, imati mogućnost korištenja skupih lijekova, trpjeti nerazumijevanje okoline, osjećati posljedice loša informiranost unutar zdravstvenog sustava o problemima i manifestacijama vaše bolesti... Sve to je svakodnevica ljudi koji će u današnjoj emisiji svjedočiti o svojim iskustvima bolovanja od rijetkih bolesti.</desc>
+<programme channel="alrahma.tv" start="20230213132500 +0100" stop="20230213141200 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213141200 +0100" stop="20230213153400 +0100">
-<title lang="hr">Opet je Dan zaljubljenih</title>
-<desc lang="hr">Marketinška menadžerica opsjednuta poslom (Nicky Whelan) opetovano proživljava isto Valentinovo, sve dok napokon ne pronađe pravog muškarca.
-Iza Katherine je najgore Valentinovo u životu jer čini se da ju je netko začarao. Ubrzo shvaća da je prisiljena uvijek iznova proživljavati isti dan sve dok ne pronađe onog pravog...</desc>
+<programme channel="alrahma.tv" start="20230213141200 +0100" stop="20230213153400 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213153400 +0100" stop="20230213162300 +0100">
-<title lang="hr">Najveća graditeljska čuda svijeta: Bezvremeni gradovi, dokumentarna serija 1, ep. 2.</title>
-<desc lang="hr">Ove metropole i gradovi posebna su mjesta na kojima prošlost živi ravnopravno sa sadašnjošću, stvarajući kulture jedinstvene za određene narode i njihove dijelove svijeta. Pridržavajući se drevnih tradicija i uvodeći suvremene inovacije, ova jedinstvena mjesta iznjedrila su kulture koje nisu ni stare ni nove. Dala su nešto bezvremeno.</desc>
+<programme channel="alrahma.tv" start="20230213153400 +0100" stop="20230213162300 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213162300 +0100" stop="20230213163000 +0100">
-<title lang="hr">HAK - promet info</title>
-<desc lang="hr">Aktualne informacije o cestovnom, željezničkom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.</desc>
+<programme channel="alrahma.tv" start="20230213162300 +0100" stop="20230213163000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213163000 +0100" stop="20230213164500 +0100">
-<title lang="hr">Vijesti</title>
-<desc lang="hr">Kratki pregled vijesti iz Hrvatske i svijeta.</desc>
+<programme channel="alrahma.tv" start="20230213163000 +0100" stop="20230213164500 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213164500 +0100" stop="20230213172300 +0100">
-<title lang="hr">Regionalni dnevnik</title>
-<desc lang="hr">Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.</desc>
+<programme channel="alrahma.tv" start="20230213164500 +0100" stop="20230213172300 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213172300 +0100" stop="20230213180900 +0100">
-<title lang="hr">Kod nas doma</title>
-<desc lang="hr">Obitelj, ljubav, prijateljstvo, zdravlje, sport, ekologija, obrazovanje, mi kao potrošači - to su teme emisije koja se emitira svaki radni dan. Pratimo društvena zbivanja i događaje, donosimo izvještaje s koncerata, modnih revija, premijera. Sa stručnjacima i poznatim osobama razgovaramo u studiju o aktualnim temama.</desc>
+<programme channel="alrahma.tv" start="20230213172300 +0100" stop="20230213180900 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213180900 +0100" stop="20230213185800 +0100">
-<title lang="hr">Potjera</title>
-<desc lang="hr">Kviz općeg znanja u kojem četiri natjecatelja odgovaraju na pitanja te grade taktiku koja će ih odvesti u finalni krug. Na tom putu lovac ih pokušava izbaciti iz igre. Tko je pobjednik, odlučuje završna potjera.</desc>
+<programme channel="alrahma.tv" start="20230213180900 +0100" stop="20230213185800 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213185800 +0100" stop="20230213190000 +0100">
-<title lang="hr">Vrijeme</title>
-<desc lang="hr">Nakon Dnevnika 1 i 3 slijedi vremenska prognoza, uz meteozanimljivosti i upozorenja na opasne vremenske pojave, uoči Dnevnika 2 kratka tjedna prognoza.</desc>
+<programme channel="alrahma.tv" start="20230213185800 +0100" stop="20230213190000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213190000 +0100" stop="20230213201500 +0100">
-<title lang="hr">Dnevnik 2</title>
-<desc lang="hr">Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za naredne dane.</desc>
+<programme channel="alrahma.tv" start="20230213190000 +0100" stop="20230213201500 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213201500 +0100" stop="20230213211500 +0100">
-<title lang="hr">What’s up Israel 1, ep. 1.</title>
-<desc lang="hr">Goran Milić posjetio je prvi put Izrael. Povijest stara tisuće i tisuće godina prepuna sukoba i kontroverzi i nikada ni o jednoj zemlji UN nije donio toliko odluka. Tel Aviv, koji londonski The Economist stavlja na prvo mjesto najskupljih gradova svijeta, grad je koji nikad ne spava. Tel Aviv - moderan, liberalan, zabavan, skup, najskuplji. Bili smo gosti na šabatskoj večeri jedne židovske obitelji, a donosimo i ekskluzivnu priču o dvojici braće, zagrebačkim Židovima, koje je kao djecu spasio jedan Splićanin.</desc>
+<programme channel="alrahma.tv" start="20230213201500 +0100" stop="20230213211500 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213211500 +0100" stop="20230213220000 +0100">
-<title lang="hr">Oblak u službi zakona, Cvijeće za mamu 1, ep. 11.</title>
-<desc lang="hr">Serija je prilagođena slijepim i slabovidnim osobama.
-Nikola uspije Ratka nagovoriti da zajedno odu na ribičiju. Na livadi uz rijeku gdje pecaju smjestila se velika ilegalna plantaža marihuane koju Nikola isprva ne primijeti. Ratko, ne znajući da se radi o marihuani, ubere nešto marihuane kako bi razveselio Jagodu na povratku s pecanja. Jagoda u Gretinoj mesnicu upozna bajkere koji pripremaju show pa joj ponude posao hostese. Na Gretin nagovor Jagoda pristane...</desc>
+<programme channel="alrahma.tv" start="20230213211500 +0100" stop="20230213220000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213220000 +0100" stop="20230213223900 +0100">
-<title lang="hr">Otvoreno</title>
-<desc lang="hr">Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.</desc>
+<programme channel="alrahma.tv" start="20230213220000 +0100" stop="20230213223900 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213223900 +0100" stop="20230213225400 +0100">
-<title lang="hr">Dnevnik 3</title>
-<desc lang="hr">Najnovije vijesti iz zemlje i svijeta.</desc>
+<programme channel="alrahma.tv" start="20230213223900 +0100" stop="20230213225400 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213225400 +0100" stop="20230213225900 +0100">
-<title lang="hr">Sport</title>
-<desc lang="hr">Dnevni sportski izvještaji i reportaže.</desc>
+<programme channel="alrahma.tv" start="20230213225400 +0100" stop="20230213225900 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213225900 +0100" stop="20230213230200 +0100">
-<title lang="hr">Vrijeme</title>
-<desc lang="hr">Nakon Dnevnika 1 i 3 slijedi vremenska prognoza, uz meteozanimljivosti i upozorenja na opasne vremenske pojave, uoči Dnevnika 2 kratka tjedna prognoza.</desc>
+<programme channel="alrahma.tv" start="20230213225900 +0100" stop="20230213230200 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213230200 +0100" stop="20230213231300 +0100">
-<title lang="hr">Vijesti iz kulture</title>
-<desc lang="hr">Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.</desc>
+<programme channel="alrahma.tv" start="20230213230200 +0100" stop="20230213231300 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230213231300 +0100" stop="20230214000800 +0100">
-<title lang="hr">Hrvatski pravednici 1, ep. 2. (12)</title>
-<desc lang="hr">U doba NDH stradalo je oko 80 posto židovskog stanovništva. Onima koji su preživjeli često su pomagali hrabri ljudi. Bilo ih je u gradovima i na selima, na sjeveru i jugu zemlje. Oni su svjetlo u tom strašnom vremenu koje se ne smije zaboraviti. Oni su naši heroji i proglašeni su Pravednicima među narodima. O njima govori druga epizoda dokumentarne serije &quot;Hrvatski pravednici&quot;.</desc>
+<programme channel="alrahma.tv" start="20230213231300 +0100" stop="20230214000800 +0100">
+<title lang="hr">قناة الرحمة الفضائية)</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط&quot;.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214000800 +0100" stop="20230214010000 +0100">
-<title lang="hr">Najveća graditeljska čuda svijeta: Bezvremeni gradovi, dokumentarna serija 1, ep. 2.</title>
-<desc lang="hr">Ove metropole i gradovi posebna su mjesta na kojima prošlost živi ravnopravno sa sadašnjošću, stvarajući kulture jedinstvene za određene narode i njihove dijelove svijeta. Pridržavajući se drevnih tradicija i uvodeći suvremene inovacije, ova jedinstvena mjesta iznjedrila su kulture koje nisu ni stare ni nove. Dala su nešto bezvremeno.</desc>
+<programme channel="alrahma.tv" start="20230214000800 +0100" stop="20230214010000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214010000 +0100" stop="20230214021900 +0100">
-<title lang="hr">Opet je Dan zaljubljenih</title>
-<desc lang="hr">Marketinška menadžerica opsjednuta poslom (Nicky Whelan) opetovano proživljava isto Valentinovo, sve dok napokon ne pronađe pravog muškarca.
-Iza Katherine je najgore Valentinovo u životu jer čini se da ju je netko začarao. Ubrzo shvaća da je prisiljena uvijek iznova proživljavati isti dan sve dok ne pronađe onog pravog...</desc>
+<programme channel="alrahma.tv" start="20230214010000 +0100" stop="20230214021900 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214021900 +0100" stop="20230214024200 +0100">
-<title lang="hr">Goldbergovi, humoristična serija 7, ep. 22. ®</title>
-<desc lang="hr">Stvari između Adama i Bree postaju ozbiljnije, a Beverly se teško miri s time. Barry se izbezumi kad se Lainey Lewis (A. J. Michalka) vrati u grad.</desc>
+<programme channel="alrahma.tv" start="20230214021900 +0100" stop="20230214024200 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 <previously-shown />
 </programme>
-<programme channel="htv1.hr" start="20230214024200 +0100" stop="20230214030600 +0100">
-<title lang="hr">Goldbergovi, humoristična serija 7, ep. 23. ®</title>
-<desc lang="hr">Bliži se maturalna zabava i Adam se boji da će ga Brea (S. Stanley) ostaviti zbog popularnijeg dečka. Kad Geoffu stignu loše vijesti od kuće, Erica ne zna kako da mu pruži potporu.</desc>
+<programme channel="alrahma.tv" start="20230214024200 +0100" stop="20230214030600 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 <previously-shown />
 </programme>
-<programme channel="htv1.hr" start="20230214030600 +0100" stop="20230214035900 +0100">
-<title lang="hr">Dnevnik 2</title>
-<desc lang="hr">Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za naredne dane.</desc>
+<programme channel="alrahma.tv" start="20230214030600 +0100" stop="20230214035900 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214035900 +0100" stop="20230214040700 +0100">
-<title lang="hr">Vijesti iz kulture</title>
-<desc lang="hr">Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.</desc>
+<programme channel="alrahma.tv" start="20230214035900 +0100" stop="20230214040700 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214040700 +0100" stop="20230214044700 +0100">
-<title lang="hr">Dr. Beck</title>
-<desc lang="hr">Zamislite da bolujete od rijetke bolesti od koje boluje tek nekoliko desetaka ljudi u Hrvatskoj. Doći do dijagnoze, imati mogućnost korištenja skupih lijekova, trpjeti nerazumijevanje okoline, osjećati posljedice loša informiranost unutar zdravstvenog sustava o problemima i manifestacijama vaše bolesti... Sve to je svakodnevica ljudi koji će u današnjoj emisiji svjedočiti o svojim iskustvima bolovanja od rijetkih bolesti.</desc>
+<programme channel="alrahma.tv" start="20230214040700 +0100" stop="20230214044700 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214044700 +0100" stop="20230214050000 +0100">
-<title lang="hr">Skica za portret</title>
-<desc lang="hr">U formi kratkog dokumentarnog filma emisija predstavlja autore važne za hrvatsku povijest i kulturu.</desc>
+<programme channel="alrahma.tv" start="20230214044700 +0100" stop="20230214050000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214050000 +0100" stop="20230214051500 +0100">
-<title lang="hr">Fotografija u Hrvatskoj</title>
-<desc lang="hr">U formi kratkog dokumentarnog filma emisija predstavlja autore važne za hrvatsku povijest i kulturu.</desc>
+<programme channel="alrahma.tv" start="20230214050000 +0100" stop="20230214051500 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214051500 +0100" stop="20230214054000 +0100">
-<title lang="hr">Treća dob</title>
-<desc lang="hr">Gotovo 500.000 umirovljenika ovaj mjesec dobilo je uvećani iznos mirovine - i to: tri posto minimalne i 10 posto obiteljske. Umirovljenici će uskoro moći primati i dio obiteljske mirovine preminulog bračnog druga. Koliko zahtjeva je do sada zaprimljeno u Hrvatski zavod za mirovinsko osiguranje, do kada se zahtjevi mogu predati i kada umirovljenici mogu očekivati prve isplate mirovine preminulog partnera?</desc>
+<programme channel="alrahma.tv" start="20230214051500 +0100" stop="20230214054000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214054000 +0100" stop="20230214062700 +0100">
-<title lang="hr">Betty i njezine dijagnoze, telenovela 5, ep. 21. ® (12)</title>
-<desc lang="hr">Gđa Puhl sumnjivo se šulja Odjelom za prijam. Kad je Betty pozove na red, postaje jasno da ona po nalogu prof. dr. von Arnstetta treba dokumentirati radnu učinkovitost. Naime, prijeti opasnost spajanja dvaju kliničkih odjela. No to nije Bettyn najveći problem. Doduše, sretna je što se njezin odnos s Hannom normalizirao, ali ne uspijeva nagovoriti Hannu na razgovor s dr. Frankom Sternom..</desc>
+<programme channel="alrahma.tv" start="20230214054000 +0100" stop="20230214062700 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 <previously-shown />
 </programme>
-<programme channel="htv1.hr" start="20230214062700 +0100" stop="20230214064500 +0100">
-<title lang="hr">TV kalendar</title>
-<desc lang="hr">Dokumentarno-povijesna emisija, emitira se svakodnevno od 1976. Prikazuje važne događaje i obljetnice iz hrvatske i svjetske povijesti</desc>
+<programme channel="alrahma.tv" start="20230214062700 +0100" stop="20230214064500 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214064500 +0100" stop="20230214070000 +0100">
+<programme channel="alrahma.tv" start="20230214064500 +0100" stop="20230214070000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
+</programme>
+<programme channel="alrahma.tv" start="20230214070000 +0100" stop="20230214071300 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
+</programme>
+<programme channel="alrahma.tv" start="20230214071300 +0100" stop="20230214080000 +0100">
 <title lang="hr">Dobro jutro, Hrvatska</title>
-<desc lang="hr">Mozaična emisija koja od ponedjeljka do subote donosi aktualne informativne i zabavne sadržaje, s voditeljskim parom u studiju i gostima te uz reportaže i javljanja uživo iz cijele Hrvatske i redovite rubrike sa savjetima iz svih područja života.</desc>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214070000 +0100" stop="20230214071300 +0100">
-<title lang="hr">Vijesti</title>
-<desc lang="hr">Kratki pregled vijesti iz Hrvatske i svijeta.</desc>
+<programme channel="alrahma.tv" start="20230214080000 +0100" stop="20230214081300 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214071300 +0100" stop="20230214080000 +0100">
+<programme channel="alrahma.tv" start="20230214081300 +0100" stop="20230214090000 +0100">
 <title lang="hr">Dobro jutro, Hrvatska</title>
-<desc lang="hr">Mozaična emisija koja od ponedjeljka do subote donosi aktualne informativne i zabavne sadržaje, s voditeljskim parom u studiju i gostima te uz reportaže i javljanja uživo iz cijele Hrvatske i redovite rubrike sa savjetima iz svih područja života.</desc>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214080000 +0100" stop="20230214081300 +0100">
-<title lang="hr">Vijesti</title>
-<desc lang="hr">Kratki pregled vijesti iz Hrvatske i svijeta.</desc>
+<programme channel="alrahma.tv" start="20230214090000 +0100" stop="20230214091300 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214081300 +0100" stop="20230214090000 +0100">
-<title lang="hr">Dobro jutro, Hrvatska</title>
-<desc lang="hr">Mozaična emisija koja od ponedjeljka do subote donosi aktualne informativne i zabavne sadržaje, s voditeljskim parom u studiju i gostima te uz reportaže i javljanja uživo iz cijele Hrvatske i redovite rubrike sa savjetima iz svih područja života.</desc>
+<programme channel="alrahma.tv" start="20230214091300 +0100" stop="20230214101400 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214090000 +0100" stop="20230214091300 +0100">
-<title lang="hr">Vijesti</title>
-<desc lang="hr">Kratki pregled vijesti iz Hrvatske i svijeta.</desc>
+<programme channel="alrahma.tv" start="20230214101400 +0100" stop="20230214104500 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214091300 +0100" stop="20230214101400 +0100">
-<title lang="hr">Dobro jutro, Hrvatska</title>
-<desc lang="hr">Mozaična emisija koja od ponedjeljka do subote donosi aktualne informativne i zabavne sadržaje, s voditeljskim parom u studiju i gostima te uz reportaže i javljanja uživo iz cijele Hrvatske i redovite rubrike sa savjetima iz svih područja života.</desc>
+<programme channel="alrahma.tv" start="20230214104500 +0100" stop="20230214111400 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">&quot;قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214101400 +0100" stop="20230214104500 +0100">
-<title lang="hr">Zlatna liga</title>
-<desc lang="hr">Legende s ekrana ponovno su s vama! Emisija u kojoj legendarni voditelji ugošćuju osobe iz javnog života, a svi su 65 plus!</desc>
+<programme channel="alrahma.tv" start="20230214111400 +0100" stop="20230214114300 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214104500 +0100" stop="20230214111400 +0100">
-<title lang="hr">Lidijina kuhinja: Slojevi talijanskih aroma, dokumentarna serija 4, ep. 1.</title>
-<desc lang="hr">&quot;Alla parmigiana&quot; je način pripreme mnogih jela južne Italije u kojima prevladavaju jednostavni, ali intenzivni okusi. U današnjoj epizodi, Lidia će gledateljima pokazati svoju, laganiju inačicu piletine alla parmigiana - pohani pileći zabatak s rajčicom i mozzarellom, obilno zaliven umakom od rajčice; jednostavno jelo od parene brokule i tvrdo kuhanih jaja začinjeno vinskim octom; a na kraju limoncello tiramisu - pravi izvor energije i zadovoljstva, pripremljen od piškota, mascarponea i zaliven šatoom od limoncella.</desc>
+<programme channel="alrahma.tv" start="20230214114300 +0100" stop="20230214120000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214111400 +0100" stop="20230214114300 +0100">
-<title lang="hr">Vrtlarica: Mirisna priča</title>
-<desc lang="hr">Mirisi su važan element obilkovanja vrtnog prostora. U ovoj Vrtlarici upoznajemo različite mirisne vrste te doznajemo kako ih uzgojitii i uklopiti u vlastiti vrt.
-Montaža: Nino Šoštarić</desc>
+<programme channel="alrahma.tv" start="20230214120000 +0100" stop="20230214121500 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214114300 +0100" stop="20230214120000 +0100">
-<title lang="hr">TV kalendar</title>
-<desc lang="hr">Dokumentarno-povijesna emisija, emitira se svakodnevno od 1976. Prikazuje važne događaje i obljetnice iz hrvatske i svjetske povijesti</desc>
+<programme channel="alrahma.tv" start="20230214121500 +0100" stop="20230214121800 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214120000 +0100" stop="20230214121500 +0100">
-<title lang="hr">Dnevnik 1</title>
-<desc lang="hr">Aktualne informacije i najnovije vijesti iz zemlje i svijeta u podnevnom Dnevniku.</desc>
+<programme channel="alrahma.tv" start="20230214121800 +0100" stop="20230214122900 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214121500 +0100" stop="20230214121800 +0100">
-<title lang="hr">Sport</title>
-<desc lang="hr">Dnevni sportski izvještaji i reportaže.</desc>
+<programme channel="alrahma.tv" start="20230214122900 +0100" stop="20230214132200 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214121800 +0100" stop="20230214122900 +0100">
-<title lang="hr">Vrijeme</title>
-<desc lang="hr">Nakon Dnevnika 1 i 3 slijedi vremenska prognoza, uz meteozanimljivosti i upozorenja na opasne vremenske pojave, uoči Dnevnika 2 kratka tjedna prognoza.</desc>
+<programme channel="alrahma.tv" start="20230214132200 +0100" stop="20230214140500 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214122900 +0100" stop="20230214132200 +0100">
-<title lang="hr">Srca divljega Pantanala, ep. 27. (12)</title>
-<desc lang="hr">Jove i Juma dolaze njegovoj kući u Rio de Janeiru. Jaguar kruži oko Jumine kolibe. Nijema se uplaši. Jove iznenadi obitelj kad dovede Jumu sa sobom. Tibério se zabrine za Nijemu. Irma pokuša razgovarati sa Jumom. Da bi se obranila od jaguara, Nijema puca u starca s rijeke. Jumi je nelagodno u Joveovoj kući. Starcu s rijeke pomogne Trinidade. José Leôncio opomene Tadeua jer je odveo Jumu i Jovea u Rio de Janeiro. Mariana se zabrine kada joj Jove kaže da je odustao od nasljedstva. Alcides i Guta odlaze u Juminu kolibu. Juma se želi vratiti kući.</desc>
+<programme channel="alrahma.tv" start="20230214140500 +0100" stop="20230214153100 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214132200 +0100" stop="20230214140500 +0100">
-<title lang="hr">Dr. Beck</title>
-<desc lang="hr">Kako se u Hrvatskoj postižu iznimni uspjesi na svjetskom planu u transplantaciji jetre i koji put prolaze pacijenti čekajući spasonosni organ, saznajemo od vrhunskih kirurga prestižnih hrvatskih transplantacijskih timova, koordinatorice transplantacije, ali i pacijenta koji je dobio priliku za novi život.</desc>
-</programme>
-<programme channel="htv1.hr" start="20230214140500 +0100" stop="20230214153100 +0100">
-<title lang="hr">Akcija, ljubav!</title>
-<desc lang="hr">Stručnjakinja za fitness Kate treba vratiti u formu neposlušnu filmsku zvijezdu Ricka kako bi mogao snimiti svoj novi akcijski film.</desc>
-</programme>
-<programme channel="htv1.hr" start="20230214153100 +0100" stop="20230214162200 +0100">
-<title lang="hr">Najveća graditeljska čuda svijeta: Epohalne građevine, dokumentarna serija 1, ep. 3.</title>
-<desc lang="hr">Sve se zgrade moraju početi od temelja, no samo neke odabrane mogu biti revolucionarne. Te su građevine trijumf arhitekture, potvrda statusa, moći, karaktera i raskoši. One odolijevaju vremenu i postaju globalne ikone. Potpuno različite oblikom, veličinom i funkcijom, ove raznolike građevine dokaz su da ne postoji recept za veličanstvenost, nego samo temeljni sastojci vizije, hrabrosti i mašte.
+<programme channel="alrahma.tv" start="20230214153100 +0100" stop="20230214162200 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.
  </desc>
 </programme>
-<programme channel="htv1.hr" start="20230214162200 +0100" stop="20230214163000 +0100">
-<title lang="hr">HAK - promet info</title>
-<desc lang="hr">Aktualne informacije o cestovnom, željezničkom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.</desc>
+<programme channel="alrahma.tv" start="20230214162200 +0100" stop="20230214163000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214163000 +0100" stop="20230214164500 +0100">
-<title lang="hr">Vijesti</title>
-<desc lang="hr">Kratki pregled vijesti iz Hrvatske i svijeta.</desc>
+<programme channel="alrahma.tv" start="20230214163000 +0100" stop="20230214164500 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214164500 +0100" stop="20230214172100 +0100">
-<title lang="hr">Regionalni dnevnik</title>
-<desc lang="hr">Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.</desc>
+<programme channel="alrahma.tv" start="20230214164500 +0100" stop="20230214172100 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214172100 +0100" stop="20230214180700 +0100">
-<title lang="hr">Kod nas doma</title>
-<desc lang="hr">Obitelj, ljubav, prijateljstvo, zdravlje, sport, ekologija, obrazovanje, mi kao potrošači - to su teme emisije koja se emitira svaki radni dan. Pratimo društvena zbivanja i događaje, donosimo izvještaje s koncerata, modnih revija, premijera. Sa stručnjacima i poznatim osobama razgovaramo u studiju o aktualnim temama.</desc>
+<programme channel="alrahma.tv" start="20230214172100 +0100" stop="20230214180700 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214180700 +0100" stop="20230214185800 +0100">
-<title lang="hr">Potjera</title>
-<desc lang="hr">Kviz općeg znanja u kojem četiri natjecatelja odgovaraju na pitanja te grade taktiku koja će ih odvesti u finalni krug. Na tom putu lovac ih pokušava izbaciti iz igre. Tko je pobjednik, odlučuje završna potjera.</desc>
+<programme channel="alrahma.tv" start="20230214180700 +0100" stop="20230214185800 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214185800 +0100" stop="20230214190000 +0100">
-<title lang="hr">Vrijeme</title>
-<desc lang="hr">Nakon Dnevnika 1 i 3 slijedi vremenska prognoza, uz meteozanimljivosti i upozorenja na opasne vremenske pojave, uoči Dnevnika 2 kratka tjedna prognoza.</desc>
+<programme channel="alrahma.tv" start="20230214185800 +0100" stop="20230214190000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214190000 +0100" stop="20230214201500 +0100">
-<title lang="hr">Dnevnik 2</title>
-<desc lang="hr">Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za naredne dane.</desc>
+<programme channel="alrahma.tv" start="20230214190000 +0100" stop="20230214201500 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214201500 +0100" stop="20230214211400 +0100">
-<title lang="hr">Pametan kao vrana, hrabar kao jež, Lisice 1, ep. 7.</title>
-<desc lang="hr">Lisica dolazi s vrhunskom standardnom opremom koja uključuje ugrađeni kompas, parfem s mirisom ljubičice i multifunkcionalni rep. Otkrili smo i da se u slobodno vrijeme bavi golfom, a razgovarali smo i s čovjekom koji je živio kao lisica. U SAD-u smo posjetili pripitomljene hippy lisice, a u Japanu lisičje selo. U našim smo Vinogradcima saznali kakve su lisice kao kućni ljubimci, a otkrivamo vam i još tonu drugih zanimljivosti o teti liji, samo na HTV-u!
-Otmjena je lija ženka, hoda kao manekenka.</desc>
+<programme channel="alrahma.tv" start="20230214201500 +0100" stop="20230214211400 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214211400 +0100" stop="20230214220000 +0100">
-<title lang="hr">Oblak u službi zakona, Talijanske cipele 1, ep. 12.</title>
-<desc lang="hr">Serija je prilagođena slijepim i slabovidnim osobama.
-Suvi slučajno svjedoči pljački pošte prilikom koje mu otpadne potplat s lažnih talijanskih cipela. Jedan od pljačkaša sažali se nad njim i da mu par sto kuna da si kupi nove cipele. Na uviđaju Nikola pronađe potplat i uvrsti ga u dokaze, kao važan trag. Bruno se pojavi u novoj jakni sumnjive kvalitete. Jaknu je povoljno kupio na novom poslu gdje radi na distribuciji i pakiranju vrhunske odjeće i obuće...</desc>
+<programme channel="alrahma.tv" start="20230214211400 +0100" stop="20230214220000 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214220000 +0100" stop="20230214223900 +0100">
+<programme channel="alrahma.tv" start="20230214220000 +0100" stop="20230214223900 +0100">
 <title lang="hr">Otvoreno</title>
-<desc lang="hr">Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.</desc>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214223900 +0100" stop="20230214225400 +0100">
+<programme channel="alrahma.tv" start="20230214223900 +0100" stop="20230214225400 +0100">
 <title lang="hr">Dnevnik 3</title>
-<desc lang="hr">Najnovije vijesti iz zemlje i svijeta.</desc>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214225400 +0100" stop="20230214225900 +0100">
-<title lang="hr">Sport</title>
-<desc lang="hr">Dnevni sportski izvještaji i reportaže.</desc>
+<programme channel="alrahma.tv" start="20230214225400 +0100" stop="20230214225900 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214225900 +0100" stop="20230214230200 +0100">
-<title lang="hr">Vrijeme</title>
-<desc lang="hr">Nakon Dnevnika 1 i 3 slijedi vremenska prognoza, uz meteozanimljivosti i upozorenja na opasne vremenske pojave, uoči Dnevnika 2 kratka tjedna prognoza.</desc>
+<programme channel="alrahma.tv" start="20230214225900 +0100" stop="20230214230200 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214230200 +0100" stop="20230214231500 +0100">
-<title lang="hr">Vijesti iz kulture</title>
-<desc lang="hr">Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.</desc>
+<programme channel="alrahma.tv" start="20230214230200 +0100" stop="20230214231500 +0100">
+<title lang="hr">قناة الرحمة الفضائية iz kulture</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214231500 +0100" stop="20230214234800 +0100">
-<title lang="hr">Što je klasik?: Škola za žene - Moliere</title>
-<desc lang="hr">Molièreova Škola za žene nikad nije dosegla popularnost Škrca ili Mizantropa, no bila je prekretnica u njegovu opusu. Nakon praizvedbe krajem 1662. dežurni zagovornici ćudoređa optužili su ga za nedostatak morala i ukusa, blaćenje religijskih postulata, pa čak i za nepoznavanje gramatike. No, Molière nije im ostao dužan. Ubrzo je dolio ulje na vatru komedijom Kritika škole za žene, u kojoj objašnjava svoju poetiku. Zašto je njegovo djelo prevratničko, te u čemu je važnost Škole za žene, zna
-teatrologinja Lada Čale Feldman.</desc>
+<programme channel="alrahma.tv" start="20230214231500 +0100" stop="20230214234800 +0100">
+<title lang="hr">قناة الرحمة الفضائية</title>
+<desc lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.</desc>
 </programme>
-<programme channel="htv1.hr" start="20230214234800 +0100" stop="20230215004100 +0100">
-<title lang="hr">Najveća graditeljska čuda svijeta: Epohalne građevine, dokumentarna serija 1, ep. 3.</title>
-<desc lang="hr">Sve se zgrade moraju početi od temelja, no samo neke odabrane mogu biti revolucionarne. Te su građevine trijumf arhitekture, potvrda statusa, moći, karaktera i raskoši. One odolijevaju vremenu i postaju globalne ikone. Potpuno različite oblikom, veličinom i funkcijom, ove raznolike građevine dokaz su da ne postoji recept za veličanstvenost, nego samo temeljni sastojci vizije, hrabrosti i mašte.
+<programme channel="alrahma.tv" start="20230214234800 +0100" stop="20230215004100 +0100">
+<title lang="hr">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط.
  </desc>
 </programme>
 </tv>
