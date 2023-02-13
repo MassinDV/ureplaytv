@@ -5,21 +5,21 @@
 <url>http://iqraa.tv</url>
 <icon src="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/SK1_RS_logo.png" />
 </channel>
-  <channel id="alrahma.tv">
-    <display-name lang="ar">Alrahma TV</display-name>
-    <icon src="https://media0004.elcinema.com/tvguide/1334_1.png" />
-    <url>http://www.elcinema.com</url>
-  </channel>
-    <channel id="tamazighttv.ma">
-    <display-name lang="ar">Tamazight TV</display-name>
-    <icon src="http://www.tamazight-tv.ma/images/tamazight.png" />
-    <url>http://www.tamazight-tv.ma</url>
-  </channel>
-      <channel id="aflamtv.ma">
-    <display-name lang="ar">Aflam TV</display-name>
-    <icon src="http://www.aflamtv.ma/images/aflamtv.png" />
-    <url>http://www.elcinema.com</url>
-  </channel>
+<channel id="alrahma.tv">
+<display-name lang="ar">Alrahma TV</display-name>
+<icon src="https://media0004.elcinema.com/tvguide/1334_1.png" />
+<url>http://www.elcinema.com</url>
+</channel>
+<channel id="tamazighttv.ma">
+<display-name lang="ar">Tamazight TV</display-name>
+<icon src="http://www.tamazight-tv.ma/images/tamazight.png" />
+<url>http://www.tamazight-tv.ma</url>
+</channel>
+<channel id="aflamtv.ma">
+<display-name lang="ar">Aflam TV</display-name>
+<icon src="http://www.aflamtv.ma/images/aflamtv.png" />
+<url>http://www.elcinema.com</url>
+</channel>
 <programme channel="alrahma.tv" start="20230213000500 +0100" stop="20230216003000 +0100">
 <title lang="ar">Al Rahma TV</title>
 <desc lang="ar">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط،.</desc>
