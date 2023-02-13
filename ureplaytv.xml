@@ -5,147 +5,152 @@
 <url>http://iqraa.tv</url>
 <icon src="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/SK1_RS_logo.png" />
 </channel>
-<programme channel="iqraa.tv" start="20230213000500 +0100" stop="20230213003000 +0100">
-<title lang="hr">Iqraa TV</title>
-<desc lang="hr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam.</desc>
+  <channel id="alrahma.tv">
+    <display-name lang="ar">Alrahma TV</display-name>
+    <icon src="https://media0004.elcinema.com/tvguide/1334_1.png" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+<programme channel="alrahma.tv" start="20230213000500 +0100" stop="20230216003000 +0100">
+<title lang="ar">Al Rahma TV</title>
+<desc lang="ar">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط،.</desc>
 <live />
 </programme>
 <programme channel="iqraa.tv" start="20230213003000 +0100" stop="20230213043500 +0100">
-<title lang="hr">Iqraa TV</title>
-<desc lang="hr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
+<title lang="en">Iqraa TV</title>
+<desc lang="en">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
 <live />
 </programme>
 <programme channel="iqraa.tv" start="20230213043500 +0100" stop="20230213050500 +0100">
-<title lang="hr">Iqraa TV</title>
-<desc lang="hr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
+<title lang="en">Iqraa TV</title>
+<desc lang="en">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
 </programme>
 <programme channel="iqraa.tv" start="20230213050500 +0100" stop="20230213060000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
 </programme>
 <programme channel="iqraa.tv" start="20230213060000 +0100" stop="20230213073000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
 </programme>
 <programme channel="iqraa.tv" start="20230213073000 +0100" stop="20230213080000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
 </programme>
 <programme channel="iqraa.tv" start="20230213080000 +0100" stop="20230213083000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
 </programme>
 <programme channel="iqraa.tv" start="20230213083000 +0100" stop="20230213090000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam.</desc>
 </programme>
 <programme channel="iqraa.tv" start="20230213090000 +0100" stop="20230213093000 +0100">
-<title lang="hr">Iqraa TV</title>
-<desc lang="hr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam.</desc>
+<title lang="en">Iqraa TV</title>
+<desc lang="en">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam.</desc>
 </programme>
 <programme channel="iqraa.tv" start="20230213093000 +0100" stop="20230213130000 +0100">
-<title lang="hr">Iqraa TV</title>
-<desc lang="hr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
+<title lang="en">Iqraa TV</title>
+<desc lang="en">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
 </programme>
 <programme channel="iqraa.tv" start="20230213130000 +0100" stop="20230213133000 +0100">
-<title lang="hr">Iqraa TV</title>
-<desc lang="hr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
+<title lang="en">Iqraa TV</title>
+<desc lang="en">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
 <live />
 </programme>
 <programme channel="iqraa.tv" start="20230213133000 +0100" stop="20230213173000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam.</desc>
 <live />
 </programme>
 <programme channel="iqraa.tv" start="20230213173000 +0100" stop="20230213190000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam.!</desc>
 <live />
 </programme>
 <programme channel="iqraa.tv" start="20230213190000 +0100" stop="20230213193000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam.!</desc>
 <live />
 </programme>
 <programme channel="iqraa.tv" start="20230213193000 +0100" stop="20230213230000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam.</desc>
 <live />
 </programme>
 <programme channel="iqraa.tv" start="20230213230000 +0100" stop="20230213233000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam.</desc>
 <live />
 </programme>
 <programme channel="iqraa.tv" start="20230213233000 +0100" stop="20230214001000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam.</desc>
 </programme>
 <programme channel="iqraa.tv" start="20230214001000 +0100" stop="20230214013000 +0100">
-<title lang="hr">Iqraa TV</title>
-<desc lang="hr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
+<title lang="en">Iqraa TV</title>
+<desc lang="en">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
 </programme>
 <programme channel="iqraa.tv" start="20230214013000 +0100" stop="20230214041000 +0100">
-<title lang="hr">Iqraa TV</title>
-<desc lang="hr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam. ↓c</desc>
+<title lang="en">Iqraa TV</title>
+<desc lang="en">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam. ↓c</desc>
 <live />
 </programme>
 <programme channel="iqraa.tv" start="20230214041000 +0100" stop="20230214060000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
 </programme>
 <programme channel="iqraa.tv" start="20230214060000 +0100" stop="20230214062000 +0100">
-<title lang="hr">Iqraa TV</title>
-<desc lang="hr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
+<title lang="en">Iqraa TV</title>
+<desc lang="en">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
 </programme>
 <programme channel="iqraa.tv" start="20230214062000 +0100" stop="20230214080000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
 </programme>
 <programme channel="iqraa.tv" start="20230214080000 +0100" stop="20230214083000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
 </programme>
 <programme channel="iqraa.tv" start="20230214083000 +0100" stop="20230214100000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam.</desc>
 </programme>
 <programme channel="iqraa.tv" start="20230214100000 +0100" stop="20230214110000 +0100">
-<title lang="hr">Iqraa TV</title>
-<desc lang="hr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
+<title lang="en">Iqraa TV</title>
+<desc lang="en">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
 </programme>
 <programme channel="iqraa.tv" start="20230214110000 +0100" stop="20230214120000 +0100">
-<title lang="hr">Iqraa TV</title>
-<desc lang="hr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
+<title lang="en">Iqraa TV</title>
+<desc lang="en">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
 <live />
 </programme>
 <programme channel="iqraa.tv" start="20230214120000 +0100" stop="20230214173000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam.</desc>
 <live />
 </programme>
 <programme channel="iqraa.tv" start="20230214173000 +0100" stop="20230214190000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam.</desc>
 <live />
 </programme>
 <programme channel="iqraa.tv" start="20230214190000 +0100" stop="20230214193000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam.</desc>
 <live />
 </programme>
 <programme channel="iqraa.tv" start="20230214193000 +0100" stop="20230214230000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam.</desc>
 <live />
 </programme>
 <programme channel="iqraa.tv" start="20230214230000 +0100" stop="20230214233000 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam.</desc>
 <live />
 </programme>
 <programme channel="iqraa.tv" start="20230214233000 +0100" stop="20230215002500 +0100">
-<title lang="hr">Iqraa TV</title>
+<title lang="en">Iqraa TV</title>
 <desc lang="sr">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam.</desc>
 </programme>
 </tv>
