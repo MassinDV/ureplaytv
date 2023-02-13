@@ -10,19 +10,30 @@
     <icon src="https://media0004.elcinema.com/tvguide/1334_1.png" />
     <url>http://www.elcinema.com</url>
   </channel>
+    <channel id="tamazighttv.ma">
+    <display-name lang="ar">Tamazight TV</display-name>
+    <icon src="http://www.tamazight-tv.ma/images/tamazight.png" />
+    <url>http://www.tamazight-tv.ma</url>
+  </channel>
+      <channel id="aflamtv.ma">
+    <display-name lang="ar">Aflam TV</display-name>
+    <icon src="http://www.aflamtv.ma/images/aflamtv.png" />
+    <url>http://www.elcinema.com</url>
+  </channel>
 <programme channel="alrahma.tv" start="20230213000500 +0100" stop="20230216003000 +0100">
 <title lang="ar">Al Rahma TV</title>
 <desc lang="ar">قناة فضائية مصرية متخصصة في شرح علوم القرآن وعلوم السنة الصحيحة بفهم سلف الأمة لا إفراط ولا تفريط،.</desc>
 <live />
 </programme>
-<programme channel="iqraa.tv" start="20230213003000 +0100" stop="20230213043500 +0100">
-<title lang="en">Iqraa TV</title>
-<desc lang="en">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
+<programme channel="tamazighttv.ma" start="20230213003000 +0100" stop="20290213043500 +0100">
+<title lang="en">Tamazight TV</title>
+<desc lang="ar">"تمازيغت" قناة  تلفزية ذات مرجعية عامة تقترح تنوعا واسعا في شبكة برامجها التي تبث 80% منها باللغة الأمازيغية  بروافدها الثلاث (تمازيغت، تشلحيت، تريفيت)، بالإضافة إلى برامج حول الثقافة الأمازيغية بلغات أخرى.
+تترجم هذه القناة على أرض الواقع الإرادة الهادفة إلى توفير تواصلية عصرية هدفها دعم الأمازيغية لغة و ثقافة و فنا و حضارة و كذلك التعبير عن التنوع الثقافي الذي يوطد وحدة بلادنا و الهوية المغربية. تحمل "تمازيغت" قيم مغرب منفتح و متسامح و عصري..</desc>
 <live />
 </programme>
-<programme channel="iqraa.tv" start="20230213043500 +0100" stop="20230213050500 +0100">
-<title lang="en">Iqraa TV</title>
-<desc lang="en">Iqraa International states that its main mission is "to educate Islam to non-Arab Muslims, and reveal misconceptions and clarifying the teachings of Islam..</desc>
+<programme channel="aflamtv.ma" start="20230213043500 +0100" stop="20290213050500 +0100">
+<title lang="en">Aflam TV</title>
+<desc lang="en">من أواخر قنوات الشركة الوطنية للإذاعة و التلفزة، مخصصة بشكل أساسي للسينما و الرواية من خلال إنتاجات وطنية و دولية، تهدف إلى تحسين ذوق الجمهور في مجال الفن السابع، بالّإضافة إلى تنمية الإنتاج السينمائي الوطني.تبث قناة أفلام TV عبر التلفزة الرقمية الأرضية، 24 ساعة على 24 و في جودة رقمية.</desc>
 </programme>
 <programme channel="iqraa.tv" start="20230213050500 +0100" stop="20230213060000 +0100">
 <title lang="en">Iqraa TV</title>
